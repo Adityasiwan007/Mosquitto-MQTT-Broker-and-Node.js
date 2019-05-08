@@ -27,4 +27,5 @@ mosquitto -v   #start in verbose mode
 
 mosquitto -h
 
+This file contains the sample code for mosquitto code
 
